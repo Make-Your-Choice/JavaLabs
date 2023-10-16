@@ -1,5 +1,3 @@
-package yanko;
-
 import java.util.Random;
 
 public class Task2 {
